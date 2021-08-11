@@ -1,9 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## About the project
-
-The objective of this project is to create a template that can be used to create projects using NextJS, as the process of installing and configuring libs at the beginning of a project can generate some complexity and often even errors that delay the process, interrupting the flow of development.
-
 ## Usage
 
 Run `npm install` or `yarn install`.
@@ -25,6 +21,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 -   [Next.js](https://nextjs.org/)
 -   [Cz-cli](http://commitizen.github.io/cz-cli/)
 -   [Typescript][ts]
+-   [Unform](https://unform.dev/)
+-   [React-toastify](https://fkhadra.github.io/react-toastify/introduction/)
+-   [Yup](https://github.com/jquense/yup)
+-   [React Icons](https://react-icons.github.io/react-icons/)
 -   [styled-components](https://www.styled-components.com/)
 -   [VS Code][vscode] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
